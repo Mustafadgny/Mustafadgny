@@ -3,6 +3,14 @@
 
 ---
 
+### 👨‍💻 About Me
+
+- 🎓 I'm a 4th-year Computer Engineering (English) student at **Biruni University**.
+- 📍 Based in **Istanbul, Turkey**.
+- 🎯 My goal is to become an **AI Specialist**, combining my passion for development with intelligent systems.
+
+---
+
 ### 🚀 My Projects & Focus Areas
 
 - 🔭 I’m currently working on a **TÜBİTAK-supported AI project**.
